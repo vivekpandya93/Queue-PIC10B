@@ -1,0 +1,16 @@
+Xibalba 3 6
+La_Catrina 5 10
+Joaquin_Mondragon 10 3
+Manolo_Sanchez 14 7
+Maria_Posada 21 16
+Chuy 23 6
+Pepe_Rodriguez 26 11
+General_Posada 32 2
+El_Chakal 45 12
+Carlos_Sanchez 71 25
+Luis_Sanchez 75 11
+Jorge_Sanchez 77 8
+Carmelo_Sanchez 80 9
+Grandma_Sanchez 118 12
+Candle_Maker 157 6
+El_Chato 535 8
